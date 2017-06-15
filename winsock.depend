@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497514641 source:c:\users\kankans\desktop\winsock\main.c
+	<stdio.h>
+	<winsock2.h>
+	<time.h>
+
